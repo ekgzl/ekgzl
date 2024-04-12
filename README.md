@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hello, my name is Enes Kaan. I am a second-year Software Engineering student looking for a summer internship. I am currently learning C++ data structures and am a hardworking and dedicated junior developer.
 
-Thank you for considering my application. I look forward to discussing my qualifications further.
 
 
 ## 🌐 Socials:
