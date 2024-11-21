@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Enes Kaan. I am a second-year Software Engineering student looking for a summer internship. I am currently learning Flutter and  Front-end Technologies am a hardworking and dedicated junior developer.
+Hello, my name is Enes Kaan. I am a third-year Software Engineering student. I am currently learning Front-end Technologies am a hardworking and dedicated junior developer.
 
 
 ## 🌐 Socials:
